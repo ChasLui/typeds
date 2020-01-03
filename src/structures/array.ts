@@ -3,5 +3,7 @@
  * @Author: ChasLui
  * @Email: chaslui@outlook.com
  */
-
-export { default as Stack } from './structures/stack'
+/**
+ * 数组
+ */
+export default Array;
